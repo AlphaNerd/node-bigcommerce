@@ -33,7 +33,7 @@ var bigCommerce = new BigCommerce({
 
 ##### Instantiating a BigCommerce instance without a config object will result in an error
 
-## Authorisation
+## Authorization
 
 Set up your Big Commerce as above and pass the following configuration options in:
 
